@@ -1,7 +1,6 @@
-<style>
-        body {
+       body {
             margin: 0;
-            overflow: hidden; 
+            overflow:auto
         }
 
         #video-background {
@@ -23,7 +22,6 @@
             text-align: center;
             padding: 150px;
         }
-    </style>
 
 body {
     font-family: Arial, sans-serif;
@@ -70,30 +68,6 @@ main {
     padding: 20px;
 }
 
-.offfers-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin: 20px;
-}
-
-.offers-card {
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-.offers-card img {
-    max-width: 100%;
-    height: auto;
-}
-
-.offers-card h3 {
-    font-size: 25px;
-    margin: 10px 0;
-}
 
 h2{
     text-align: center;
