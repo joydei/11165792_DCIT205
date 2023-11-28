@@ -35,25 +35,25 @@ npm install
 Using Node Package Manager:
 npm start
 
-<img src="![Home Page](Screenshot/Home.png)" alt="This is the Homepage">
-<img src="![About Us Page](<Screenshot/About Us top.png>)" alt="This is the about page">
-<img src="![About Us (Continued)](<Screenshot/About Us bottom.png>)" alt="This is the continuation of the About page">
-<img src="![Events Page](<Screenshot/Events Top.png>)" alt="This is the Events Page">
-<img src="![Events Page continued](<Screenshot/Events bottom.png>)" alt="This is the continuation of the Events page">
-<img src="![Catalogue Page](<Screenshot/Catalogue top.png>)" alt="This is the catalogue page">
-<img src="![Catalogue Page (Continued)](<Screenshot/Catalogue Bottom.png>)" alt="This is the continuation of the Catalogue page">
-<img src="![Research Page](<Screenshot/Research top.png>)" alt="This is the Research page">
-<img src="![Research Page (Continued)](<Screenshot/Research Bottom.png>)" alt="This is the continuation of the research page">
-<img src="![Calendar](Screenshot/Calendar.png)" alt="Calendar Page">
-<img src="![Contact Page](Screenshot/Contacts.png)" alt="Contact Page">
-<img src="![Projects Page](<Screenshot/Projects top.png>)" alt="This is the Projects Page">
-<img src="![Projects Page (Continued)](<Screenshot/Projects middle.png>)" alt="This is the continuation of the projects Page">
-<img src="![Projects Page (Continued)](<Screenshot/Projects bottom.png>)" alt="This is the continuation of the projects Page">
-<img src="![Faculty Page](<Screenshot/Faculty top.png>)" alt="The Faculty Page">
-<img src="![Faculty Page(Continued)](<Screenshot/Faculty bottom.png>)" alt="This is the continuation of the Faculty Page">
-<img src="![FAQ Page](<Screenshot/FAQ top.png>)" alt="This is the FAQ page">
-<img src="![FAQ Page(Continued)](<Screenshot/FAQ Middle.png>)" alt="This is the continuation ogf the FAQ page">
-<img src="![FAQ Page(Continued)](<Screenshot/FAQ bottom.png>)" alt="This is the continuation of the FAQ page">
+<img src="![Home Page](Home.png)" alt="This is the Homepage">
+<img src="![About Page](<About Us top.png>)" alt="This is the about page">
+<img src="![About Us (Continued)](<About Us bottom.png>)" alt="This is the continuation of the About page">
+<img src="![Events Page](<Events Top.png>)" alt="This is the Events Page">
+<img src="![Events Page (Continued)](<Events bottom.png>)" alt="This is the continuation of the Events page">
+<img src="![Catalogue Page](<Catalogue top.png>)" alt="This is the catalogue page">
+<img src="![Catalogue Page (Continued)](<Catalogue Bottom.png>)" alt="This is the continuation of the Catalogue page">
+<img src="![Research Page](<Research top.png>)" alt="This is the Research page">
+<img src="![Research Page (Continued)](<Research Bottom.png>)" alt="This is the continuation of the research page">
+<img src="![Calendar Page](Calendar.png)" alt="Calendar Page">
+<img src="![Contact Page](Contacts.png)" alt="Contact Page">
+<img src="![Projects Page ](<Projects top.png>)" alt="This is the Projects Page">
+<img src="![Projects Page (Continued)](<Projects middle.png>)" alt="This is the continuation of the projects Page">
+<img src="![Projects Page (Continued)](<Projects bottom.png>)" alt="This is the continuation of the projects Page">
+<img src="![Faculty Page](<Faculty top.png>)" alt="The Faculty Page">
+<img src="![Faculty Page(Continued)](<Faculty bottom.png>)" alt="This is the continuation of the Faculty Page">
+<img src="![FAQ Page](<FAQ top.png>)" alt="This is the FAQ page">
+<img src="![FAQ Page(Continued)](<FAQ Middle.png>)" alt="This is the continuation ogf the FAQ page">
+<img src="![FAQ Page(Continued)](<FAQ bottom.png>)" alt="This is the continuation of the FAQ page">
 
 
 
