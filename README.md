@@ -35,25 +35,27 @@ npm install
 Using Node Package Manager:
 npm start
 
+![Home](https://github.com/joydei/11165792_DCIT205/assets/137103007/37ce53ff-9315-42e3-97df-17dc2f9d58c3)
+![About Us top](https://github.com/joydei/11165792_DCIT205/assets/137103007/6f4937a1-3553-4e78-a84f-022ef4d93e5d)
+![About Us bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/e54467d5-eb7c-42e9-aa92-88fdb64cacb6)
+![Events Top](https://github.com/joydei/11165792_DCIT205/assets/137103007/39abeddc-86f7-4461-850f-adc323b96f40)
+![Events bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/d3729917-fac9-438a-a707-d53b9b61c1e9)
+![Catalogue top](https://github.com/joydei/11165792_DCIT205/assets/137103007/b9a756d9-32c8-47d9-a7a7-27d80b920bf3)
+![Catalogue Bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/ffad9136-5eaf-44b7-8219-30130d6aa1f8)
+![Research top](https://github.com/joydei/11165792_DCIT205/assets/137103007/f69624ab-c2de-4188-b4e8-6c4d80362584)
 ![Research Bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/c24acf40-7542-4741-a8a9-91ea6d26281d)
+![Calendar](https://github.com/joydei/11165792_DCIT205/assets/137103007/00ff63bf-c356-46c0-bf59-58574ecbd979)
+![Contacts](https://github.com/joydei/11165792_DCIT205/assets/137103007/40fc752b-6deb-4ce0-accd-e0fecee4eccd)
 ![Projects top](https://github.com/joydei/11165792_DCIT205/assets/137103007/d26bc9e0-e438-4254-91ea-3baf5e7a3da4)
 ![Projects middle](https://github.com/joydei/11165792_DCIT205/assets/137103007/0d66ed2d-3133-45cb-9738-8f91e9afd64e)
 ![Projects bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/851f6072-1c32-406f-b79b-d3811d71cb1b)
-![Home](https://github.com/joydei/11165792_DCIT205/assets/137103007/37ce53ff-9315-42e3-97df-17dc2f9d58c3)
+![Faculty top](https://github.com/joydei/11165792_DCIT205/assets/137103007/85f76cf9-e0d5-4b3d-adfe-3154dd0ca104)
+![Faculty bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/416c3f9e-5fad-4c9d-a24c-26c30eab7241)
 ![FAQ top](https://github.com/joydei/11165792_DCIT205/assets/137103007/4b285fa5-e182-411e-893e-e0d074d8c910)
 ![FAQ Middle](https://github.com/joydei/11165792_DCIT205/assets/137103007/1504d2a0-529e-416b-823e-50f1acdbc1a8)
 ![FAQ bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/c07356c3-419e-4e04-b56d-6082a48fe9d5)
-![Faculty top](https://github.com/joydei/11165792_DCIT205/assets/137103007/85f76cf9-e0d5-4b3d-adfe-3154dd0ca104)
-![Faculty bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/416c3f9e-5fad-4c9d-a24c-26c30eab7241)
-![Events Top](https://github.com/joydei/11165792_DCIT205/assets/137103007/39abeddc-86f7-4461-850f-adc323b96f40)
-![Events bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/d3729917-fac9-438a-a707-d53b9b61c1e9)
-![Contacts](https://github.com/joydei/11165792_DCIT205/assets/137103007/40fc752b-6deb-4ce0-accd-e0fecee4eccd)
-![Catalogue top](https://github.com/joydei/11165792_DCIT205/assets/137103007/b9a756d9-32c8-47d9-a7a7-27d80b920bf3)
-![Catalogue Bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/ffad9136-5eaf-44b7-8219-30130d6aa1f8)
-![Calendar](https://github.com/joydei/11165792_DCIT205/assets/137103007/00ff63bf-c356-46c0-bf59-58574ecbd979)
-![About Us top](https://github.com/joydei/11165792_DCIT205/assets/137103007/6f4937a1-3553-4e78-a84f-022ef4d93e5d)
-![About Us bottom](https://github.com/joydei/11165792_DCIT205/assets/137103007/e54467d5-eb7c-42e9-aa92-88fdb64cacb6)
-![Research top](https://github.com/joydei/11165792_DCIT205/assets/137103007/f69624ab-c2de-4188-b4e8-6c4d80362584)
+
+
 
 
 
